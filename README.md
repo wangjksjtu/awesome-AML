@@ -13,7 +13,7 @@ A curated list of awesome adversarial attack and defense papers, inspired by [aw
 * [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/abs/1706.06083). Madry et al., 2017. (PGD)
 * [Boosting Adversarial Attacks with Momentum](https://arxiv.org/abs/1710.06081). Dong et al., 2017. (MIM)
 * [EAD: Elastic-Net Attacks to Deep Neural Networks via Adversarial Examples](https://arxiv.org/abs/1709.04114). Chen et al., 2017. (EAD)
-
+* [Generating Adversarial Examples with Adversarial Networks](https://arxiv.org/abs/1801.02610). Xiao et al., 2018. (AdvGAN)
 
 ### Black-Box (Gradient-free)
 #### Transfer-based
@@ -26,6 +26,8 @@ A curated list of awesome adversarial attack and defense papers, inspired by [aw
 * [Practical Black-box Attacks on Deep NeuralNetworks using Efficient Query Mechanisms](http://openaccess.thecvf.com/content_ECCV_2018/html/Arjun_Nitin_Bhagoji_Practical_Black-box_Attacks_ECCV_2018_paper.html). Bhagoji et al., 2018. (PCA, random grouping)
 * [Black-box Adversarial Attacks with Limited Queries and Information](https://arxiv.org/abs/1804.08598). Ilyas et al., 2018. (NES)
 * [Adversarial Risk and the Dangers of Evaluating Against Weak Attacks](https://arxiv.org/abs/1802.05666). Uesato et al., 2018. (SPSA)
+* [AutoZOOM: Autoencoder-based Zeroth Order Optimization Method for Attacking Black-box Neural Networks](https://arxiv.org/abs/1805.11770). Tu et al., 2018.
+* [Simple Black-box Adversarial Attacks](https://arxiv.org/abs/1905.07121). Guo et al., 2019.
 * [Improving Black-box Adversarial Attacks with a Transfer-based Prior](https://arxiv.org/abs/1906.06919). Cheng et al., 2019.
 
 #### Decision-based
@@ -40,7 +42,8 @@ A curated list of awesome adversarial attack and defense papers, inspired by [aw
 * [Robust Physical-World Attacks on Deep Learning Models](https://arxiv.org/abs/1707.08945) Eykholt et al., 2017. 
 * [Synthesizing Robust Adversarial Examples](https://arxiv.org/abs/1707.07397) Athalye et al., 2017. (EOT, 3D adv-turtle)
 * [ShapeShifter: Robust Physical Adversarial Attack on Faster R-CNN Object Detector](https://arxiv.org/abs/1804.05810) Chen et al., 2018.
-* [Physical Adversarial Examples for Object Detectors](https://arxiv.org/abs/1807.07769) Eykholt et al., 2018.
+* [Physical Adversarial Examples for Object Detectors](https://arxiv.org/abs/1807.07769). Eykholt et al., 2018.
+* [SemanticAdv: Generating Adversarial Examples via Attribute-conditional Image Editing](https://arxiv.org/abs/1906.07927). Qiu et al., 2019.
 * [Adversarial Objects Against LiDAR-Based Autonomous Driving Systems](https://arxiv.org/abs/1907.05418) Cao et al., 2019.
 
 ### Attack across domains
