@@ -46,8 +46,8 @@ A curated list of awesome adversarial attack and defense papers, inspired by [aw
 ### Attack across domains
 * [Universal adversarial perturbations](https://arxiv.org/abs/1610.08401). Moosavi-Dezfooli et al., 2016
 * [Ensemble Adversarial Training: Attacks and Defenses](https://arxiv.org/abs/1705.07204). Tramer et al., 2017.
-* [Synthesizing Robust Adversarial Examples](https://arxiv.org/abs/1707.07397) Athalye et al., 2017. (EOT)
-* [CAAD 2018: Iterative Ensemble Adversarial Attack](https://arxiv.org/abs/1811.03456) (ens-PGD, 5th in CAAD 2018)
+* [Synthesizing Robust Adversarial Examples](https://arxiv.org/abs/1707.07397). Athalye et al., 2017. (EOT)
+* [CAAD 2018: Iterative Ensemble Adversarial Attack](https://arxiv.org/abs/1811.03456). Liu et al., 2018. (ens-PGD, 5th in CAAD 2018)
 * [Beyond Adversarial Training: Min-Max Optimization in Adversarial Attack and Defense](https://arxiv.org/abs/1906.03563). Wang et al., 2019. (better ens-attack, universal perturbataion and EOT)
 
 ## Defense
@@ -61,12 +61,15 @@ A curated list of awesome adversarial attack and defense papers, inspired by [aw
 * [Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks](https://arxiv.org/abs/1511.04508) Papernot et al., 2015.
 * [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/abs/1706.06083). Madry et al., 2017. (Adversarial Training, AT)
 * [Extending Defensive Distillation](https://arxiv.org/abs/1705.05264). Papernot et al., 2017.
-* [Mitigating Adversarial Effects Through Randomization])(https://arxiv.org/abs/1711.01991). Xie et al., 2017.
-* [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://arxiv.org/abs/1802.00420) Athalye et al., 2018.
-* [Curriculum Adversarial Training](https://arxiv.org/abs/1805.04807) Cai et al., 2018. (CAT)
-* [Improved robustness to adversarial examples using Lipschitz regularization of the loss](https://arxiv.org/abs/1810.00953) Finlay et al., 2018.
-* [Defensive Quantization: When Efficiency Meets Robustness](https://arxiv.org/abs/1904.08444) Lin et al., 2019.
+* [Mitigating Adversarial Effects Through Randomization](https://arxiv.org/abs/1711.01991). Xie et al., 2017.
+* [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://arxiv.org/abs/1802.00420). Athalye et al., 2018. (ICML 2018 best paper)
+* [Curriculum Adversarial Training](https://arxiv.org/abs/1805.04807). Cai et al., 2018. (CAT)
+* [Improved robustness to adversarial examples using Lipschitz regularization of the loss](https://arxiv.org/abs/1810.00953). Finlay et al., 2018.
+* [Defensive Quantization: When Efficiency Meets Robustness](https://arxiv.org/abs/1904.08444). Lin et al., 2019.
 * [Beyond Adversarial Training: Min-Max Optimization in Adversarial Attack and Defense](https://arxiv.org/abs/1906.03563). Wang et al., 2019. (Generalized Adversarial Training, GAT)
 
 ### Using other auxiliary tools
-TBD
+* [MagNet: a Two-Pronged Defense against Adversarial Examples](https://arxiv.org/abs/1705.09064). Meng et al., 2017. 
+* [Defense against Adversarial Attacks Using High-Level Representation Guided Denoiser](https://arxiv.org/abs/1712.02976). Liao et al., 2017. (HGD)
+* [Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models](https://arxiv.org/abs/1805.06605). Samangouei et al., 2018.
+* [ComDefend: An Efficient Image Compression Model to Defend Adversarial Examples](https://arxiv.org/abs/1811.12673). Jia et al., 2018.
