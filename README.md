@@ -59,6 +59,7 @@ A curated list of awesome adversarial attack and defense papers, inspired by [aw
 * [A study of the effect of JPG compression on adversarial images](https://arxiv.org/abs/1608.00853). Dziugaite et al., 2016.
 * [Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks](https://arxiv.org/abs/1704.01155). Xu et al., 2017.
 * [Keeping the Bad Guys Out: Protecting and Vaccinating Deep Learning with JPEG Compression](https://arxiv.org/abs/1705.02900). Das et al., 2017.
+* [Countering Adversarial Images using Input Transformations](https://arxiv.org/abs/1711.00117). Guo et al., 2017.
 * [Defending against Adversarial Images using Basis Functions Transformations](https://arxiv.org/abs/1803.10840). Shaham et al., 2018.
 
 ### Modifying the training schemes or models
@@ -77,6 +78,7 @@ A curated list of awesome adversarial attack and defense papers, inspired by [aw
 ### Using other auxiliary tools
 * [MagNet: a Two-Pronged Defense against Adversarial Examples](https://arxiv.org/abs/1705.09064). Meng et al., 2017. 
 * [Defense against Adversarial Attacks Using High-Level Representation Guided Denoiser](https://arxiv.org/abs/1712.02976). Liao et al., 2017. (HGD)
-* [Characterizing Adversarial Subspaces Using Local Intrinsic Dimensionality](https://arxiv.org/abs/1801.02613). Ma et al., 2018.
+* [Characterizing Adversarial Subspaces Using Local Intrinsic Dimensionality](https://arxiv.org/abs/1801.02613). Ma et al., 2018. (LID)
 * [Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models](https://arxiv.org/abs/1805.06605). Samangouei et al., 2018.
 * [ComDefend: An Efficient Image Compression Model to Defend Adversarial Examples](https://arxiv.org/abs/1811.12673). Jia et al., 2018.
+
