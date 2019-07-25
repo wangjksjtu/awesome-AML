@@ -29,6 +29,7 @@ A curated list of awesome adversarial attack and defense papers, inspired by [aw
 * [AutoZOOM: Autoencoder-based Zeroth Order Optimization Method for Attacking Black-box Neural Networks](https://arxiv.org/abs/1805.11770). Tu et al., 2018.
 * [Simple Black-box Adversarial Attacks](https://arxiv.org/abs/1905.07121). Guo et al., 2019.
 * [Improving Black-box Adversarial Attacks with a Transfer-based Prior](https://arxiv.org/abs/1906.06919). Cheng et al., 2019.
+* [NATTACK: Learning the Distributions of Adversarial Examples for an Improved Black-Box Attack on Deep Neural Networks](https://arxiv.org/abs/1905.00441). Li et al., 2019.
 
 #### Decision-based
 * [Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models](https://arxiv.org/abs/1712.04248). Brendel et al., 2017. (Boundary Attack)
@@ -65,14 +66,17 @@ A curated list of awesome adversarial attack and defense papers, inspired by [aw
 * [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/abs/1706.06083). Madry et al., 2017. (Adversarial Training, AT)
 * [Extending Defensive Distillation](https://arxiv.org/abs/1705.05264). Papernot et al., 2017.
 * [Mitigating Adversarial Effects Through Randomization](https://arxiv.org/abs/1711.01991). Xie et al., 2017.
+* [Towards Robust Neural Networks via Random Self-ensemble](https://arxiv.org/abs/1712.00673). Liu et al., 2017.
 * [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://arxiv.org/abs/1802.00420). Athalye et al., 2018. (ICML 2018 best paper)
 * [Curriculum Adversarial Training](https://arxiv.org/abs/1805.04807). Cai et al., 2018. (CAT)
 * [Improved robustness to adversarial examples using Lipschitz regularization of the loss](https://arxiv.org/abs/1810.00953). Finlay et al., 2018.
+* [Adv-BNN: Improved Adversarial Defense through Robust Bayesian Neural Network](https://arxiv.org/abs/1810.01279). Liu et al., 2018.
 * [Defensive Quantization: When Efficiency Meets Robustness](https://arxiv.org/abs/1904.08444). Lin et al., 2019.
 * [Beyond Adversarial Training: Min-Max Optimization in Adversarial Attack and Defense](https://arxiv.org/abs/1906.03563). Wang et al., 2019. (Generalized Adversarial Training, GAT)
 
 ### Using other auxiliary tools
 * [MagNet: a Two-Pronged Defense against Adversarial Examples](https://arxiv.org/abs/1705.09064). Meng et al., 2017. 
 * [Defense against Adversarial Attacks Using High-Level Representation Guided Denoiser](https://arxiv.org/abs/1712.02976). Liao et al., 2017. (HGD)
+* [Characterizing Adversarial Subspaces Using Local Intrinsic Dimensionality](https://arxiv.org/abs/1801.02613). Ma et al., 2018.
 * [Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models](https://arxiv.org/abs/1805.06605). Samangouei et al., 2018.
 * [ComDefend: An Efficient Image Compression Model to Defend Adversarial Examples](https://arxiv.org/abs/1811.12673). Jia et al., 2018.
