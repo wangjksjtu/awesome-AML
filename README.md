@@ -7,7 +7,7 @@ A curated list of awesome adversarial attack and defense papers, inspired by [aw
 * [Intriguing properties of neural networks](https://arxiv.org/abs/1312.6199). Szegedy et al., 2013. (L-BFGS)
 * [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572). Goodfellow et al., 2014. (FGSM)
 * [DeepFool: a simple and accurate method to fool deep neural networks](https://arxiv.org/abs/1511.04599). Moosavi-Dezfooli et al., 2015. (DeepFool)
-* [The Limitations of Deep Learning in Adversarial Settings](https://arxiv.org/abs/1511.07528) Papernot et al., 2015. (JSMA)
+* [The Limitations of Deep Learning in Adversarial Settings](https://arxiv.org/abs/1511.07528). Papernot et al., 2015. (JSMA)
 * [Towards Evaluating the Robustness of Neural Networks](https://arxiv.org/abs/1608.04644). Carlini et al., 2016. (C&W)
 * [Adversarial examples in the physical world](https://arxiv.org/abs/1607.02533). Kurakin et al., 2016. (BIM)
 * [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/abs/1706.06083). Madry et al., 2017. (PGD)
@@ -39,12 +39,12 @@ A curated list of awesome adversarial attack and defense papers, inspired by [aw
 * [HopSkipJumpAttack: A Query-Efficient Decision-Based Attack](https://arxiv.org/abs/1904.02144). Chen et al., 2019. (Boundary Attack++)
 
 ### Robust physical attack
-* [Robust Physical-World Attacks on Deep Learning Models](https://arxiv.org/abs/1707.08945) Eykholt et al., 2017. 
-* [Synthesizing Robust Adversarial Examples](https://arxiv.org/abs/1707.07397) Athalye et al., 2017. (EOT, 3D adv-turtle)
-* [ShapeShifter: Robust Physical Adversarial Attack on Faster R-CNN Object Detector](https://arxiv.org/abs/1804.05810) Chen et al., 2018.
+* [Robust Physical-World Attacks on Deep Learning Models](https://arxiv.org/abs/1707.08945). Eykholt et al., 2017. 
+* [Synthesizing Robust Adversarial Examples](https://arxiv.org/abs/1707.07397). Athalye et al., 2017. (EOT, 3D adv-turtle)
+* [ShapeShifter: Robust Physical Adversarial Attack on Faster R-CNN Object Detector](https://arxiv.org/abs/1804.05810). Chen et al., 2018.
 * [Physical Adversarial Examples for Object Detectors](https://arxiv.org/abs/1807.07769). Eykholt et al., 2018.
 * [SemanticAdv: Generating Adversarial Examples via Attribute-conditional Image Editing](https://arxiv.org/abs/1906.07927). Qiu et al., 2019.
-* [Adversarial Objects Against LiDAR-Based Autonomous Driving Systems](https://arxiv.org/abs/1907.05418) Cao et al., 2019.
+* [Adversarial Objects Against LiDAR-Based Autonomous Driving Systems](https://arxiv.org/abs/1907.05418). Cao et al., 2019.
 
 ### Attack across domains
 * [Universal adversarial perturbations](https://arxiv.org/abs/1610.08401). Moosavi-Dezfooli et al., 2016
@@ -61,7 +61,7 @@ A curated list of awesome adversarial attack and defense papers, inspired by [aw
 * [Defending against Adversarial Images using Basis Functions Transformations](https://arxiv.org/abs/1803.10840). Shaham et al., 2018.
 
 ### Modifying the training schemes or models
-* [Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks](https://arxiv.org/abs/1511.04508) Papernot et al., 2015.
+* [Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks](https://arxiv.org/abs/1511.04508). Papernot et al., 2015.
 * [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/abs/1706.06083). Madry et al., 2017. (Adversarial Training, AT)
 * [Extending Defensive Distillation](https://arxiv.org/abs/1705.05264). Papernot et al., 2017.
 * [Mitigating Adversarial Effects Through Randomization](https://arxiv.org/abs/1711.01991). Xie et al., 2017.
