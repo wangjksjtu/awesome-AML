@@ -74,6 +74,8 @@ A curated list of awesome adversarial attack and defense papers, inspired by [aw
 * [Adv-BNN: Improved Adversarial Defense through Robust Bayesian Neural Network](https://arxiv.org/abs/1810.01279). Liu et al., 2018.
 * [Defensive Quantization: When Efficiency Meets Robustness](https://arxiv.org/abs/1904.08444). Lin et al., 2019.
 * [Beyond Adversarial Training: Min-Max Optimization in Adversarial Attack and Defense](https://arxiv.org/abs/1906.03563). Wang et al., 2019. (Generalized Adversarial Training, GAT)
+* [Unlabeled Data Improves Adversarial Robustness](https://arxiv.org/abs/1905.13736). Carmon et al., 2019.
+* [Adversarially Robust Generalization Just Requires More Unlabeled Data](https://arxiv.org/abs/1906.00555). Zhai et al., 2019.
 
 ### Using other auxiliary tools
 * [MagNet: a Two-Pronged Defense against Adversarial Examples](https://arxiv.org/abs/1705.09064). Meng et al., 2017. 
