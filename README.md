@@ -63,11 +63,14 @@ A curated list of awesome adversarial attack and defense papers, inspired by [aw
 * [Defending against Adversarial Images using Basis Functions Transformations](https://arxiv.org/abs/1803.10840). Shaham et al., 2018.
 
 ### Modifying the training schemes or models
+* [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572). Goodfellow et al., 2014. (Adversarial Training, AT)
 * [Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks](https://arxiv.org/abs/1511.04508). Papernot et al., 2015.
-* [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/abs/1706.06083). Madry et al., 2017. (Adversarial Training, AT)
+* [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/abs/1706.06083). Madry et al., 2017. (AT)
+* [Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning](https://arxiv.org/abs/1704.03976). Miyato, et al., 2017. (VAT)
 * [Extending Defensive Distillation](https://arxiv.org/abs/1705.05264). Papernot et al., 2017.
 * [Ensemble Adversarial Training: Attacks and Defenses](https://arxiv.org/abs/1705.07204). Tramèr et al., 2017. (ImageNet)
 * [Mitigating Adversarial Effects Through Randomization](https://arxiv.org/abs/1711.01991). Xie et al., 2017.
+* [Improving the Adversarial Robustness and Interpretability of Deep Neural Networks by Regularizing their Input Gradients](https://arxiv.org/abs/1711.09404). Ross et al., 2017.
 * [Towards Robust Neural Networks via Random Self-ensemble](https://arxiv.org/abs/1712.00673). Liu et al., 2017.
 * [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://arxiv.org/abs/1802.00420). Athalye et al., 2018. (ICML 2018 best paper)
 * [Adversarial Logit Pairing](https://arxiv.org/abs/1803.06373). Kannan et al., 2018. (ALP, ImageNet)
