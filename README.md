@@ -66,12 +66,15 @@ A curated list of awesome adversarial attack and defense papers, inspired by [aw
 * [Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks](https://arxiv.org/abs/1511.04508). Papernot et al., 2015.
 * [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/abs/1706.06083). Madry et al., 2017. (Adversarial Training, AT)
 * [Extending Defensive Distillation](https://arxiv.org/abs/1705.05264). Papernot et al., 2017.
+* [Ensemble Adversarial Training: Attacks and Defenses](https://arxiv.org/abs/1705.07204). Tramèr et al., 2017. (ImageNet)
 * [Mitigating Adversarial Effects Through Randomization](https://arxiv.org/abs/1711.01991). Xie et al., 2017.
 * [Towards Robust Neural Networks via Random Self-ensemble](https://arxiv.org/abs/1712.00673). Liu et al., 2017.
 * [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://arxiv.org/abs/1802.00420). Athalye et al., 2018. (ICML 2018 best paper)
+* [Adversarial Logit Pairing](https://arxiv.org/abs/1803.06373). Kannan et al., 2018. (ALP, ImageNet)
 * [Curriculum Adversarial Training](https://arxiv.org/abs/1805.04807). Cai et al., 2018. (CAT)
 * [Improved robustness to adversarial examples using Lipschitz regularization of the loss](https://arxiv.org/abs/1810.00953). Finlay et al., 2018.
 * [Adv-BNN: Improved Adversarial Defense through Robust Bayesian Neural Network](https://arxiv.org/abs/1810.01279). Liu et al., 2018.
+* [Feature Denoising for Improving Adversarial Robustness](https://arxiv.org/abs/1812.03411). Xie et al., 2018. (CAAD 1st, ImageNet)
 * [Theoretically Principled Trade-off between Robustness and Accuracy](https://arxiv.org/abs/1901.08573). Zhang et al., 2019. (TRADES)
 * [Defensive Quantization: When Efficiency Meets Robustness](https://arxiv.org/abs/1904.08444). Lin et al., 2019.
 * [Beyond Adversarial Training: Min-Max Optimization in Adversarial Attack and Defense](https://arxiv.org/abs/1906.03563). Wang et al., 2019. (Generalized Adversarial Training, GAT)
