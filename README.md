@@ -51,7 +51,7 @@ A curated list of awesome adversarial attack and defense papers, inspired by [aw
 * [Universal adversarial perturbations](https://arxiv.org/abs/1610.08401). Moosavi-Dezfooli et al., 2016
 * [Ensemble Adversarial Training: Attacks and Defenses](https://arxiv.org/abs/1705.07204). Tramer et al., 2017.
 * [Synthesizing Robust Adversarial Examples](https://arxiv.org/abs/1707.07397). Athalye et al., 2017. (EOT)
-* [CAAD 2018: Iterative Ensemble Adversarial Attack](https://arxiv.org/abs/1811.03456). Liu et al., 2018. (ens-PGD, 5th in CAAD 2018)
+* [CAAD 2018: Iterative Ensemble Adversarial Attack](https://arxiv.org/abs/1811.03456). Liu et al., 2018. (ens-PGD, CAAD 2018 5th)
 * [Beyond Adversarial Training: Min-Max Optimization in Adversarial Attack and Defense](https://arxiv.org/abs/1906.03563). Wang et al., 2019. (better ens-attack, universal perturbataion and EOT)
 
 ## Defense
@@ -74,7 +74,7 @@ A curated list of awesome adversarial attack and defense papers, inspired by [aw
 * [Curriculum Adversarial Training](https://arxiv.org/abs/1805.04807). Cai et al., 2018. (CAT)
 * [Improved robustness to adversarial examples using Lipschitz regularization of the loss](https://arxiv.org/abs/1810.00953). Finlay et al., 2018.
 * [Adv-BNN: Improved Adversarial Defense through Robust Bayesian Neural Network](https://arxiv.org/abs/1810.01279). Liu et al., 2018.
-* [Feature Denoising for Improving Adversarial Robustness](https://arxiv.org/abs/1812.03411). Xie et al., 2018. (CAAD 1st, ImageNet)
+* [Feature Denoising for Improving Adversarial Robustness](https://arxiv.org/abs/1812.03411). Xie et al., 2018. (CAAD 2018 1st, ImageNet)
 * [Theoretically Principled Trade-off between Robustness and Accuracy](https://arxiv.org/abs/1901.08573). Zhang et al., 2019. (TRADES)
 * [Defensive Quantization: When Efficiency Meets Robustness](https://arxiv.org/abs/1904.08444). Lin et al., 2019.
 * [Beyond Adversarial Training: Min-Max Optimization in Adversarial Attack and Defense](https://arxiv.org/abs/1906.03563). Wang et al., 2019. (Generalized Adversarial Training, GAT)
