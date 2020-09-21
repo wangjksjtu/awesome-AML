@@ -25,11 +25,17 @@ A curated list of awesome adversarial attack and defense papers, inspired by [aw
 * [ZOO: Zeroth Order Optimization based Black-box Attacks to Deep Neural Networks without Training Substitute Models](https://arxiv.org/abs/1708.03999). Chen et al., 2017. (ZOO)
 * [Practical Black-box Attacks on Deep NeuralNetworks using Efficient Query Mechanisms](http://openaccess.thecvf.com/content_ECCV_2018/html/Arjun_Nitin_Bhagoji_Practical_Black-box_Attacks_ECCV_2018_paper.html). Bhagoji et al., 2018. (PCA, random grouping)
 * [Black-box Adversarial Attacks with Limited Queries and Information](https://arxiv.org/abs/1804.08598). Ilyas et al., 2018. (NES)
+* [Prior convictions: Black-box adversarial attacks with bandits and priors](https://arxiv.org/abs/1807.07978). Ilyas et al., 2018. (Bandits-TD)
 * [Adversarial Risk and the Dangers of Evaluating Against Weak Attacks](https://arxiv.org/abs/1802.05666). Uesato et al., 2018. (SPSA)
 * [AutoZOOM: Autoencoder-based Zeroth Order Optimization Method for Attacking Black-box Neural Networks](https://arxiv.org/abs/1805.11770). Tu et al., 2018.
-* [Simple Black-box Adversarial Attacks](https://arxiv.org/abs/1905.07121). Guo et al., 2019.
+* [GenAttack: GenAttack: Practical Black-box Attacks with Gradient-Free Optimization]. Alzantot et al., 2018.
+* [Simple Black-box Adversarial Attacks](https://arxiv.org/abs/1905.07121). Guo et al., 2019. (SimBA)
 * [Improving Black-box Adversarial Attacks with a Transfer-based Prior](https://arxiv.org/abs/1906.06919). Cheng et al., 2019.
 * [NATTACK: Learning the Distributions of Adversarial Examples for an Improved Black-Box Attack on Deep Neural Networks](https://arxiv.org/abs/1905.00441). Li et al., 2019.
+* [BayesOpt Adversarial Attack](https://openreview.net/forum?id=Hkem-lrtvH). Ru et al., 2020.
+* [Black-box Adversarial Attacks with Bayesian Optimization](https://arxiv.org/abs/1909.13857). Shukla et al., 2020.
+* [Switching Gradient Directions for Query-Efficient Black-Box Adversarial Attacks](https://arxiv.org/abs/2009.07191). Chen et al., 2020.
+
 
 #### Decision-based
 * [Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models](https://arxiv.org/abs/1712.04248). Brendel et al., 2017. (Boundary Attack)
@@ -38,6 +44,8 @@ A curated list of awesome adversarial attack and defense papers, inspired by [aw
 * [Efficient Decision-based Black-box Adversarial Attacks on Face Recognition](https://arxiv.org/abs/1904.04433). Dong et al., 2019. (Evolutionary Attack)
 * [Guessing Smart: Biased Sampling for Efficient Black-Box Adversarial Attacks](https://arxiv.org/abs/1812.09803). Brunner et al., 2019. (Biased Boundary Attack)
 * [HopSkipJumpAttack: A Query-Efficient Decision-Based Attack](https://arxiv.org/abs/1904.02144). Chen et al., 2019. (Boundary Attack++)
+* [QEBA: Query-Efficient Boundary-Based Blackbox Attack](https://arxiv.org/abs/2005.14137). Li et al., 2020.
+
 
 ### Robust physical attack
 * [Robust Physical-World Attacks on Deep Learning Models](https://arxiv.org/abs/1707.08945). Eykholt et al., 2017. 
