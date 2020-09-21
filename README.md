@@ -28,14 +28,17 @@ A curated list of awesome adversarial attack and defense papers, inspired by [aw
 * [Prior convictions: Black-box adversarial attacks with bandits and priors](https://arxiv.org/abs/1807.07978). Ilyas et al., 2018. (Bandits-TD)
 * [Adversarial Risk and the Dangers of Evaluating Against Weak Attacks](https://arxiv.org/abs/1802.05666). Uesato et al., 2018. (SPSA)
 * [AutoZOOM: Autoencoder-based Zeroth Order Optimization Method for Attacking Black-box Neural Networks](https://arxiv.org/abs/1805.11770). Tu et al., 2018.
-* [GenAttack: GenAttack: Practical Black-box Attacks with Gradient-Free Optimization]. Alzantot et al., 2018.
+* [GenAttack: GenAttack: Practical Black-box Attacks with Gradient-Free Optimization](https://arxiv.org/abs/1805.11090). Alzantot et al., 2018.
 * [Simple Black-box Adversarial Attacks](https://arxiv.org/abs/1905.07121). Guo et al., 2019. (SimBA)
+* [There are No Bit Parts for Sign Bits in Black-Box Attacks](https://arxiv.org/abs/1902.06894). Al-Dujaili et al., 2019. (SignHunter)
+* [Parsimonious Black-Box Adversarial Attacks via Efficient Combinatorial Optimization](https://arxiv.org/abs/1905.06635). Moon et al., 2019.
 * [Improving Black-box Adversarial Attacks with a Transfer-based Prior](https://arxiv.org/abs/1906.06919). Cheng et al., 2019.
 * [NATTACK: Learning the Distributions of Adversarial Examples for an Improved Black-Box Attack on Deep Neural Networks](https://arxiv.org/abs/1905.00441). Li et al., 2019.
 * [BayesOpt Adversarial Attack](https://openreview.net/forum?id=Hkem-lrtvH). Ru et al., 2020.
 * [Black-box Adversarial Attacks with Bayesian Optimization](https://arxiv.org/abs/1909.13857). Shukla et al., 2020.
+* [Projection & Probability-Driven Black-Box Attack](https://arxiv.org/abs/2005.03837).  Li et al., 2020. (PPBA)
+* [Square Attack: a query-efficient black-box adversarial attack via random search](https://arxiv.org/abs/1912.00049). Andriushchenko et al., 2020. (Square Attack)
 * [Switching Gradient Directions for Query-Efficient Black-Box Adversarial Attacks](https://arxiv.org/abs/2009.07191). Chen et al., 2020.
-
 
 #### Decision-based
 * [Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models](https://arxiv.org/abs/1712.04248). Brendel et al., 2017. (Boundary Attack)
